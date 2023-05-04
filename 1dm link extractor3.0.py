@@ -1,7 +1,8 @@
 import pyperclip
 import time
 import re
-
+a = input("chapter name = ")
+print(a)
 link_count = 0
 enter_count = 0
 
